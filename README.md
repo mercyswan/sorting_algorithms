@@ -1,3 +1,7 @@
+==================
+BY ALEXENDRE GAUTIER
+==================
+
 # 0x1B. C - Sorting algorithms & Big O
 
 ---
@@ -1134,9 +1138,9 @@ alex@/tmp/sort$
 ```
 
 ---
-## Author
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
-* **Miguel Montoya**  - [MiguelMontoya-R](https://github.com/MiguelMontoya-R)
+
+
+
 
 ---
 # sorting_algorithms
